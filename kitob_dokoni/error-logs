@@ -1,0 +1,95 @@
+{"level":"error","message":"ataylab qilingan hato"}
+{"level":"error","message":"ataylab qilingan hato"}
+{"level":"error","message":"ataylab qilingan hato","timestamp":"2024-09-12T11:46:28.938Z"}
+{"level":"error","message":"ataylab qilingan hato","timestamp":"2024-09-12T11:49:27.691Z"}
+{"level":"error","message":"ataylab qilingan hato","timestamp":"2024-09-12T11:54:39.707Z","type":"unhandledRejection"}
+{"level":"error","message":"[object Object]","timestamp":"2024-09-12T12:02:11.456Z"}
+{"level":"error","message":"[object Object]","timestamp":"2024-09-12T12:02:55.676Z"}
+{"level":"error","message":"[object Object]","timestamp":"2024-09-12T12:03:21.877Z"}
+{"level":"error","message":"[object Object]","timestamp":"2024-09-12T12:03:36.617Z"}
+{"level":"error","message":"[object Object]","timestamp":"2024-09-12T12:03:50.144Z"}
+{"level":"error","message":"","timestamp":"2024-09-12T12:04:18.975Z"}
+{"level":"error","message":"\"email\" must be a valid email,","timestamp":"2024-09-12T12:04:28.486Z"}
+{"level":"error","message":"\"email\" must be a valid email,","timestamp":"2024-09-12T12:04:35.668Z"}
+{"level":"error","message":"\"password\" is required,","timestamp":"2024-09-12T12:05:00.886Z"}
+{"level":"error","message":"\"password\" is required,","timestamp":"2024-09-12T12:05:41.992Z"}
+{"level":"error","message":"\"password\" is required,","timestamp":"2024-09-12T12:05:52.932Z"}
+{"level":"error","message":"\"email\" must be a valid email,","timestamp":"2024-09-12T12:05:58.986Z"}
+{"level":"error","message":"\"second_name\" is required,","timestamp":"2024-09-12T12:06:15.161Z"}
+{"level":"error","message":"\"email\" must be a valid email,","timestamp":"2024-09-12T12:06:51.988Z"}
+{"level":"error","message":"\"password\" length must be at least 6 characters long,","timestamp":"2024-09-12T12:06:55.437Z"}
+{"level":"error","message":"Bunday email oldin royhatdan otgan","timestamp":"2024-09-12T13:36:32.690Z"}
+{"level":"error","message":"Bunday email oldin royhatdan otgan","timestamp":"2024-09-12T13:36:38.024Z"}
+{"level":"error","message":"Bunday email oldin royhatdan otgan","timestamp":"2024-09-12T13:36:44.073Z"}
+{"level":"error","message":"Bunday email oldin royhatdan otgan","timestamp":"2024-09-12T13:37:39.405Z"}
+{"level":"error","message":"\"email\" must be a valid email","timestamp":"2024-09-12T13:45:11.475Z"}
+{"level":"error","message":"callback function required","timestamp":"2024-09-16T11:34:33.636Z","type":"unhandledRejection"}
+{"level":"error","message":"callback function required","timestamp":"2024-09-16T11:34:49.311Z","type":"unhandledRejection"}
+{"level":"error","message":"callback function required","timestamp":"2024-09-16T11:35:20.843Z","type":"unhandledRejection"}
+{"level":"error","message":"callback function required","timestamp":"2024-09-16T11:35:35.943Z","type":"unhandledRejection"}
+{"level":"error","message":"\"role\" is not allowed","timestamp":"2024-09-16T11:52:08.622Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-16T12:01:10.281Z"}
+{"level":"error","message":"jwt malformed","timestamp":"2024-09-16T12:01:18.031Z"}
+{"level":"error","message":"\"first_name\" is required","timestamp":"2024-09-16T12:10:54.244Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-16T12:11:51.154Z"}
+{"level":"error","message":"Bu sahifaga huquqingiz yetarli emas","timestamp":"2024-09-16T12:11:58.776Z"}
+{"level":"error","message":"\"email\" is required","timestamp":"2024-09-16T13:26:44.333Z"}
+{"level":"error","message":"\"email\" is required","timestamp":"2024-09-16T13:27:18.613Z"}
+{"level":"error","message":"\"email\" is required","timestamp":"2024-09-16T13:27:23.828Z"}
+{"level":"error","message":"\"email\" is required","timestamp":"2024-09-16T13:28:13.088Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-16T13:36:58.958Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-16T13:37:38.257Z"}
+{"level":"error","message":"Email yoki parol hato","timestamp":"2024-09-16T13:42:08.032Z"}
+{"level":"error","message":"Email yoki parol hato","timestamp":"2024-09-16T13:42:09.678Z"}
+{"level":"error","message":"invalid token","timestamp":"2024-09-16T13:45:15.578Z"}
+{"level":"error","message":"invalid token","timestamp":"2024-09-16T13:45:33.479Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-18T06:02:09.330Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-18T06:02:27.047Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-18T06:02:30.061Z"}
+{"level":"error","message":"invalid input syntax for type integer: \":1\"","timestamp":"2024-09-18T06:06:16.724Z"}
+{"level":"error","message":"invalid input syntax for type integer: \":1\"","timestamp":"2024-09-18T06:06:32.211Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-18T06:07:03.370Z"}
+{"level":"error","message":"\"address\" is required","timestamp":"2024-09-18T06:28:19.447Z"}
+{"level":"error","message":"bind message supplies 2 parameters, but prepared statement \"\" requires 1","timestamp":"2024-09-18T06:29:56.982Z"}
+{"level":"error","message":"bind message supplies 2 parameters, but prepared statement \"\" requires 1","timestamp":"2024-09-18T06:30:05.495Z"}
+{"level":"error","message":"insert or update on table \"books\" violates foreign key constraint \"books_publisher_id_fkey\"","timestamp":"2024-09-18T06:37:33.003Z"}
+{"level":"error","message":"insert or update on table \"books\" violates foreign key constraint \"books_publisher_id_fkey\"","timestamp":"2024-09-18T06:38:40.593Z"}
+{"level":"error","message":"insert or update on table \"books\" violates foreign key constraint \"books_publisher_id_fkey\"","timestamp":"2024-09-18T06:39:23.477Z"}
+{"level":"error","message":"insert or update on table \"books\" violates foreign key constraint \"books_category_id_fkey\"","timestamp":"2024-09-18T06:43:03.337Z"}
+{"level":"error","message":"syntax error at or near \"WHERE\"","timestamp":"2024-09-18T06:45:02.452Z"}
+{"level":"error","message":"syntax error at or near \"WHERE\"","timestamp":"2024-09-18T06:47:37.413Z"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:48:19.342Z"}
+{"level":"error","message":"column \"book_id\" does not exist","timestamp":"2024-09-18T06:51:12.458Z"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:52:48.012Z"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:53:12.487Z"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:53:54.354Z"}
+{"level":"error","message":"err is not defined","timestamp":"2024-09-18T06:55:53.656Z","type":"unhandledRejection"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:56:29.096Z"}
+{"level":"error","message":"err is not defined","timestamp":"2024-09-18T06:56:29.109Z","type":"unhandledRejection"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T06:57:20.387Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2024-09-18T06:57:20.405Z","type":"unhandledRejection"}
+{"level":"error","message":"idValidator is not defined","timestamp":"2024-09-18T06:59:39.194Z"}
+{"level":"error","message":"jwt expired","timestamp":"2024-09-18T07:00:06.048Z"}
+{"level":"error","message":"\"value\" must be of type object","timestamp":"2024-09-18T07:01:01.382Z"}
+{"level":"error","message":"\"value\" must be of type object","timestamp":"2024-09-18T07:02:19.865Z"}
+{"level":"error","message":"\"value\" must be of type object","timestamp":"2024-09-18T07:04:48.517Z"}
+{"level":"error","message":"\"value\" must be of type object","timestamp":"2024-09-18T07:06:17.856Z"}
+{"level":"error","message":"\"value\" must be of type object","timestamp":"2024-09-18T07:07:05.167Z"}
+{"level":"error","message":"Cannot set headers after they are sent to the client","timestamp":"2024-09-18T07:08:09.739Z"}
+{"level":"error","message":"Kalit berilmagan","timestamp":"2024-09-18T07:09:50.792Z"}
+{"level":"error","message":"Bu sahifaga huquqingiz yetarli emas","timestamp":"2024-09-18T07:10:02.990Z"}
+{"level":"error","message":"jwt expired","timestamp":"2024-09-18T07:10:22.092Z"}
+{"level":"error","message":"insert or update on table \"orders\" violates foreign key constraint \"orders_book_id_fkey\"","timestamp":"2024-09-18T07:12:37.982Z"}
+{"level":"error","message":"syntax error at or near \"WHERE\"","timestamp":"2024-09-18T07:13:52.107Z"}
+{"level":"error","message":"column reference \"id\" is ambiguous","timestamp":"2024-09-18T07:15:20.402Z"}
+{"level":"error","message":"Bu sahifaga huquqingiz yetarli emas","timestamp":"2024-09-18T07:20:33.746Z"}
+{"level":"error","message":"\"user_id\" is required","timestamp":"2024-09-18T07:20:50.727Z"}
+{"level":"error","message":"\"book_id\" is required","timestamp":"2024-09-18T07:21:37.455Z"}
+{"level":"error","message":"\"order_id\" is not allowed","timestamp":"2024-09-18T07:22:06.276Z"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:29:11.614Z","type":"unhandledRejection"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:29:17.497Z","type":"unhandledRejection"}
+{"level":"error","message":"Bunday email oldin royhatdan otgan","timestamp":"2024-09-18T07:35:21.632Z"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:36:08.682Z","type":"unhandledRejection"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:36:09.707Z","type":"unhandledRejection"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:36:10.582Z","type":"unhandledRejection"}
+{"level":"error","message":"next is not defined","timestamp":"2024-09-18T07:36:43.896Z","type":"unhandledRejection"}
